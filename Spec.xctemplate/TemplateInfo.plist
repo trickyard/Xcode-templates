@@ -35,13 +35,30 @@
 		</dict>
 		<dict>
 			<key>Default</key>
-			<string>false</string>
+			<string>true</string>
 			<key>Identifier</key>
 			<string>importSpecta</string>
 			<key>Name</key>
 			<string>Import Specta</string>
 			<key>Type</key>
 			<string>checkbox</string>
+		</dict>
+		<dict>
+			<key>Default</key>
+			<string>true</string>
+			<key>Identifier</key>
+			<string>importExpecta</string>
+			<key>Name</key>
+			<string>Import Expecta</string>
+			<key>Type</key>
+			<string>checkbox</string>
+			<key>RequiredOptions</key>
+			<dict>
+				<key>importSpecta</key>
+				<array>
+					<string>true</string>
+				</array>
+			</dict>
 		</dict>
 		<dict>
 			<key>Default</key>
