@@ -91,6 +91,6 @@
 		<string>com.apple.platform.iphoneos</string>
 	</array>
 	<key>Summary</key>
-	<string>An Objective-C class containing an OCUnit test case with a header for Cocoa Touch</string>
+	<string>An Objective-C class containing a Specta spec.</string>
 </dict>
 </plist>
