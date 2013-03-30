@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>stub</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>id&lt;SBStub&gt; &lt;#stub#&gt; = [Stubbilino stubObject:&lt;#object#&gt;];
+
+[&lt;#stub#&gt; stubMethod:@selector(&lt;#selector#&gt;) withBlock:^{
+    &lt;#code#&gt;
+}];
+</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>257FCFE8-92D3-45C3-9B03-69E2787C5A32</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Stubbilino object stub</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
